@@ -1,4 +1,4 @@
-# Python-gui-atm
+# Python-gui-atm interface using tkinter
 
 import tkinter as tk
 from tkinter import messagebox
