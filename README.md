@@ -1,4 +1,4 @@
-# Python-gui-atm interface using tkinter
+# ATM SIMULATOR 
 
 import tkinter as tk
 from tkinter import messagebox
